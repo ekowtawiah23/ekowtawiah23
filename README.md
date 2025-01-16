@@ -32,7 +32,7 @@ My mission is to:
 Let’s collaborate or chat! You can reach me at:  
 - **Email:** ekowtawiah23@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/emmanuel-panford-17b888324  
-- **GitHub:** [Your GitHub Profile]  
+- **GitHub:** https://github.com/ekowtawiah23
 
 Looking forward to connecting with you and exploring how we can create something amazing together! 🚀
 
