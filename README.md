@@ -21,8 +21,7 @@ Hi there! I’m Emmanuel Ekow Tawiah Panford, a passionate computer science stud
 
 ## 📈 Goals & Aspirations
 
-My mission is to:  
-- Build [specific achievements or outcomes you aim for].  
+My mission is to:    
 - Collaborate with like-minded individuals to push boundaries.  
 - Contribute to projects that leave a positive mark on the world.
 
@@ -37,6 +36,4 @@ Let’s collaborate or chat! You can reach me at:
 
 Looking forward to connecting with you and exploring how we can create something amazing together! 🚀
 
----
 
-Would you like me to tweak this to reflect a specific style or focus?
