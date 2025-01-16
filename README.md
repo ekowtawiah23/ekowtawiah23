@@ -31,7 +31,7 @@ My mission is to:
 ## 🌐 Connect With Me
 
 Let’s collaborate or chat! You can reach me at:  
-- **Email:** [Your Email]  
+- **Email:** ekowtawiah23@gmail.com  
 - **LinkedIn:** [Your LinkedIn Profile]  
 - **GitHub:** [Your GitHub Profile]  
 
