@@ -24,6 +24,7 @@ Hi there! I’m Emmanuel Ekow Tawiah Panford, a passionate computer science stud
 My mission is to:    
 - Collaborate with like-minded individuals to push boundaries.  
 - Contribute to projects that leave a positive mark on the world.
+- Contribute to the tech world
 
 ---
 
