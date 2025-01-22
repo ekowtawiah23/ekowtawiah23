@@ -11,7 +11,6 @@ Hi there! I’m Emmanuel Ekow Tawiah Panford, a passionate computer science stud
 
 ---
 
-
 ### 🌟 **Soft Skills**  
 - **Problem-Solving:** Turning challenges into opportunities.  
 - **Communication:** Bridging gaps between technical and non-technical audiences.  
