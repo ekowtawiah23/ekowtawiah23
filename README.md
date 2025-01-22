@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi there! I’m Emmanuel Ekow Tawiah Panford, a passionate computer science student who thrives on solving problems, creating innovative solutions, and constantly learning. With a knack for turning ideas into impactful results, I bring creativity, technical expertise, and a growth mindset to everything I do. 
+Hi there! I’m Emmanuel Ekow Tawiah Panford, a passionate computer science student who thrives on solving problems, creating innovative solutions, and constantly learning. With a knack for turning ideas into impactful results, I bring creativity, technical expertise, and a growth mindset to everything I do.
 
 ### 🔍 What Drives Me
 - **Curiosity:** I’m always asking *how* and *why* to uncover the best solutions.  
