@@ -39,6 +39,3 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science. Welcome to my c
 **Thanks for stopping by!** 🎉  
 May your commits be green and your bugs be few! 🐛✨  
 
----
-
-Feel free to tweak this to reflect your personal style! 😊
