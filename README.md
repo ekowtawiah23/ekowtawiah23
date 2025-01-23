@@ -3,11 +3,11 @@
 
 # 👋 Welcome to My GitHub Galaxy 🌌
 
-Hey there! I'm **[Your Name/Handle]**, a [Your Profession or Passion, e.g., "Developer by Day, Creator by Night"]. Welcome to my corner of the coding cosmos! 🚀✨
+Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science. Welcome to my corner of the coding cosmos! 🚀✨
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[specific technology or skill]**  
+- 🌱 I’m currently learning ** Machine Learing **  
 - 🛠️ I specialize in **[your specialties]**  
 - 🌍 Exploring the world of **[your interests, e.g., "open-source contributions, AI, and full-stack development"]**  
 - 🧠 Fun fact: **[something quirky or unique about you, e.g., "I can debug code faster than I can cook instant noodles!"]**
