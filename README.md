@@ -3,7 +3,7 @@
 
 # 👋 Welcome to My GitHub Galaxy 🌌
 
-Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science. Welcome to my corner of the coding cosmos! 🚀✨
+Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome to my corner of the coding cosmos! 🚀✨
 
 ## 🚀 About Me
 
