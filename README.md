@@ -8,8 +8,7 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science. Welcome to my c
 ## 🚀 About Me
 
 - 🌱 I’m currently learning Machine Learning Engineering(Azure) 
-- 🛠️ I specialize in AI/ML  
-- 🌍 Exploring the world of **[your interests, e.g., "open-source contributions, AI, and full-stack development"]**  
+- 🛠️ I specialize in AI/ML     
 - 🧠 Fun fact: **[something quirky or unique about you, e.g., "I can debug code faster than I can cook instant noodles!"]**
 
 ---
