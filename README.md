@@ -1,4 +1,3 @@
-Here's a creative and catchy README for your GitHub profile:
 
 ---
 
