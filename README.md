@@ -17,7 +17,7 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome
 
 - 🧑‍💻 I’m open to working on exciting open-source projects  
 - 💡 Have an idea? Let's brainstorm and build something amazing!  
-- 📫 Reach out to me via ekowtawiah23@gmail.com or connect on [LinkedIn/Twitter/GitHub Discussions]
+- 📫 Reach out to me via ekowtawiah23@gmail.com or connect on LinkedIn via www.linkedin.com/in/emmanuel-panford-17b888324
 
 ---
 
