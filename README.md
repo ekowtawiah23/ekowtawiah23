@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Welcome to My GitHub Galaxy 🌌
+# 👋 Welcome to My GitHub Profile
 
 Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome to my corner of the coding cosmos! 🚀✨
 
