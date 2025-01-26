@@ -32,7 +32,7 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23e&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)
 
