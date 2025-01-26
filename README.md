@@ -30,11 +30,14 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome
 
 ## 🌟 GitHub Stats  
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ekowtawiah23=&show_icons=true&theme=radical)](https://github.com/ekowtawiah23)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ekowtawiah23=&layout=compact&theme=radical)](https://github.com/ekowtawiah23)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23e&layout=compact&theme=radical)
 
----
+![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical)
+
 
 **Thanks for stopping by!** 🎉  
 May your commits be green and your bugs be few! 🐛✨  
