@@ -36,7 +36,7 @@ Here’s an overview of my GitHub activity:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=cobalt)
 
 ## 💪 Contribution Streak
-![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com/?username=ekowtawiah23&theme=radical)
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=dracula)
