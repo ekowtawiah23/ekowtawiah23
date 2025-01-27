@@ -27,15 +27,22 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome
 
 ---
 
-## 🌟 GitHub Stats  
+Here’s an overview of my GitHub activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical)
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=synthwave)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical)
+## 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=cobalt)
 
+## 💪 Contribution Streak
 ![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical)
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=dracula)
+
+Thanks for visiting! Feel free to explore my repositories. 🌟
+
 
 
 **Thanks for stopping by!** 🎉  
