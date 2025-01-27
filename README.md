@@ -7,8 +7,7 @@ Hey there! I'm Emmanuel Ekow Tawiah Panford, a computer science student. Welcome
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Machine Learning Engineering(Azure) 
-- 🛠️ I specialize in AI/ML     
+- 🌱 I’m currently learning Machine Learning Engineering   
 - 🧠 Fun fact: "Code is like a puzzle—sometimes the pieces just need a little rearranging!" 🧩💻
 
 ---
