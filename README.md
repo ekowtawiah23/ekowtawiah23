@@ -23,6 +23,11 @@ I'm a student working towards building a professional brand by learning, creatin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical)
 
 ---
+
+![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages:
