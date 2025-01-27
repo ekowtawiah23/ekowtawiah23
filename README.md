@@ -7,7 +7,7 @@ I'm a student working towards building a professional brand by learning, creatin
 ---
 
 ## 🎯 About Me
-- 🧑‍🎓 **Currently Studying:**  Computer Science **
+- 🧑‍🎓 **Currently Studying:** Computer Science
 - 🌱 **Learning:** Python, Machine Learning
 - 💼 **Looking For:** Internship or project opportunities to apply and expand my skills.
 - 📚 **Hobbies:** Coding, singing, reading tech blogs, and experimenting with new tools.
