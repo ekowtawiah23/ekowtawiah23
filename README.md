@@ -24,7 +24,7 @@ I'm a student working towards building a professional brand by learning, creatin
 
 ## 🌐 Connect with Me
 Let's connect and collaborate:
-- 💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/emmanuel-panford-17b888324)
+- 💼 **LinkedIn:** [www.linkedin.com/in/emmanuel-panford-17b888324]
 - 📧 **Email:** [ekowtawiah23@gmail.com]
 
 ---
