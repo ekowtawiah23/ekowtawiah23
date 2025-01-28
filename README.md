@@ -14,19 +14,7 @@ I'm a student working towards building a professional brand by learning, creatin
 
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical)
-
----
-
-![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23)
-
----
 
 ## 🛠️ Tech Stack
 
