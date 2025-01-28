@@ -45,14 +45,4 @@ Let's connect and collaborate:
 ---
 
 ## ❤️ Support My Journey
-If you enjoy my work or find it helpful, consider giving a ⭐️ or [buying me a coffee](https://www.buymeacoffee.com/ekowtawiah23)!  
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ekowtawiah23)
-
-
-## 🛠️ Tech Stack
-
-### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+If you enjoy my work or find it helpful, consider giving a ⭐️
