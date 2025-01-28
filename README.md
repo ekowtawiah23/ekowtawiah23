@@ -24,16 +24,23 @@ I'm a student working towards building a professional brand by learning, creatin
 
 ## 🌐 Connect with Me
 Let's connect and collaborate:
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)
-- 🐦 **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
-- 📧 **Email:** [Your Email Address]
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/emmanuelpanford/)
+- 📧 **Email:** [ekowtawiah23@gmail.com]
 
 ---
 
 ## 🎯 Goals for 2025
-- 💡 Contribute to [specific field, e.g., open-source projects or AI-driven solutions].
-- 🚀 Build [a specific type of project, e.g., a full-stack application].
-- 🌱 Expand my knowledge in [specific areas, e.g., DevOps, blockchain].
+- 💡 Contribute to AI-driven solutions.
+- 🚀 Build a ML model.
+- 🌱 Expand my knowledge in blockchain.
+
+## 🛠️ Tech Stack
+
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ---
 
