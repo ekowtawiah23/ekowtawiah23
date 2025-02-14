@@ -2,7 +2,7 @@
 
 🎓 Aspiring ML Engineer  | 🌱 **Lifelong Learner** | 💡 **Passionate Problem Solver** 
     
-I'm a student working towards building a professional brand by learning, creating, and collaborating. I love exploring new technologies, solving problems, and turning ideas into impactful projects.
+I'm a student working towards building a professional brand by learning, creating, and collaborating. I love exploring new technologies, solving problems, and turning ideas into impactful projects. 
 
 ---
 
