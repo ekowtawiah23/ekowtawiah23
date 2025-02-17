@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Emmanuel Ekow Tawiah Panford 
+# 🌟 Hi, I'm Emmanuel Ekow Tawiah Panford  
 
 🎓 Aspiring ML Engineer  | 🌱 **Lifelong Learner** | 💡 **Passionate Problem Solver** 
     
