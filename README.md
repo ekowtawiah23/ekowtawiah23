@@ -19,7 +19,12 @@ I enjoy exploring new technologies, solving complex problems, and turning ideas 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
@@ -39,9 +44,12 @@ Let’s connect and collaborate:
 
 ## 🛠 Tech Stack
 
-**Languages:**  
+**Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
 
 ---
 
