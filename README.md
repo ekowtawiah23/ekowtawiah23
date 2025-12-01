@@ -36,10 +36,8 @@ Let’s connect and collaborate:
 ---
 
 ## 🎯 Goals for 2025
-- 💡 Contribute to AI-driven solutions  
-- 🚀 Build and deploy a machine learning model  
-- 🌱 Expand my knowledge in blockchain technology  
 
+- 🚀 Build and deploy a machine learning model  
 ---
 
 ## 🛠 Tech Stack
