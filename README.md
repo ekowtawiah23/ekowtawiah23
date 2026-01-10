@@ -35,7 +35,7 @@ Let’s connect and collaborate:
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 🚀 Build and deploy a machine learning model  
 ---
@@ -43,8 +43,7 @@ Let’s connect and collaborate:
 ## 🛠 Tech Stack
 
 **Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
