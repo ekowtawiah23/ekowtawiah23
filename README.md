@@ -29,16 +29,23 @@ I’m actively working toward becoming a **Machine Learning Engineer**, with int
 ---
 
 ## 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ekowtawiah23&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekowtawiah23&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
