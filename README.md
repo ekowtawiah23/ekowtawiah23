@@ -31,12 +31,12 @@ I’m actively working toward becoming a **Machine Learning Engineer**, with int
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekowtawiah23&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekowtawiah23&theme=radical"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@ I’m actively working toward becoming a **Machine Learning Engineer**, with int
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ekowtawiah23&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -76,8 +76,8 @@ I’m actively working toward becoming a **Machine Learning Engineer**, with int
 ## 🌐 Connect With Me
 Let’s collaborate and grow together:
 
-- 💼 **LinkedIn:** [linkedin.com/in/emmanuel-panford-17b888324](https://www.linkedin.com/in/emmanuel-panford-17b888324)  
-- 📧 **Email:** [ekowtawiah23@gmail.com](mailto:ekowtawiah23@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-panford-17b888324  
+- 📧 **Email:** ekowtawiah23@gmail.com  
 
 ---
 
