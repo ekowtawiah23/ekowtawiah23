@@ -4,7 +4,6 @@
 🤖 **Aspiring Machine Learning Engineer**  
 📍 Passionate about turning data into intelligent systems
 
-I’m a problem-driven developer with strong foundations in **mathematics, algorithms, and software engineering**, actively building skills in **Machine Learning and Data Science**. I enjoy working on real-world problems, learning deeply, and collaborating with others to ship useful solutions.
 
 ---
 
