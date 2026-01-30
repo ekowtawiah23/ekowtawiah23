@@ -29,10 +29,11 @@ I’m actively working toward becoming a **Machine Learning Engineer**, with int
 ---
 
 ## 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekowtawiah23&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ekowtawiah23&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekowtawiah23&layout=compact&theme=radical&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ekowtawiah23&theme=radical)
 
 ---
 
